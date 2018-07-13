@@ -1,0 +1,51 @@
+@extension-payment	GOP_AlphaBankGr
+@author-name		Michail G .Gkasios
+@copyright			Copyright (C) 2014 GKASIOS
+@license			GNU/GPL, see http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
+
+-----------Installation------------
+
+1. Use Extension Installer or Copy the content of the folder upload, to your opencart installation keeping the folder structure.
+2. Login to the Open Cart admin section and go to Extensions > Payments
+3. Find GOP Alpha Bank Gr in the list of extensions
+4. Click "Install" and then "Edit" the settings
+5. Configure depending on your needs and Save
+
+-----------Images Credits---------------
+
+downloaded from http://findicons.com
+
+Coins by VisualPharm (Ivan Boyko)(CC)
+
+OK & Error by Alexander Moore(GNU/GPL)
+
+Loading by Silvestre Herrera(GNU/GPL) animated by Michail Gkasios(GNU/GPL)
+
+
+------------Bug Report---------------
+
+bug@gkasios.com
+
+In Subject please type the extension name
+----------------------------------------------------------------------
+
+то EXTENSION еимаи амабахлислемо/тяопопоиглемо циа тгм ейдосг 2.3.0.2
+(дем евеи дойиластеи се аккес ейдосеис)
+
+ои диояхысеис ажояоум:
+1. тгм апотувиа елжамисгс епитувоус сумаккацгс йата тгм епистяожг апо тгм тяапефа
+"еСЖАКЛщМГ аПЭДЕИНГ ДЕМ УЖъСТАТАИ Г АПЭДЕИНГ СТГМ БэСГ ДЕДОЛщМЫМ ЛАР"
+
+2. еписгс сто сглеио ауто пяостехгйе йоулпи ейтупысгс йах' уподеингс тгс тяапефас
+(меа еуяыпазйг одгциа)
+
+3. йапоиес аисхгтийес диояхысеис поу ажояоусам тгм паяапамы жояла
+
+4. диояхыхгйе то пяобкгла Error: Could not load template ч тгс кеуйгс секидас
+отам епяепе йата то CHECKOUT NA MAс одгцгсеи сто пеяибакком тгс ALPHA 
+
+ои диояхысеис ажояоум то DEFAULT TEMPLATE TOY OC. ам вягсилопоигте акко TEMPLATE
+пяепеи ма йамете долийес аккацес ломои сас.
+
+Corrections: Antonis Tsoukalas antonist@otenet.gr
+----------------------------------------------------------------------
